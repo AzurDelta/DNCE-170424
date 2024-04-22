@@ -1,4 +1,4 @@
-﻿namespace DNCE_170424_G
+﻿namespace UniqueOrderedElementsArray
 {
     internal class Program
     {
